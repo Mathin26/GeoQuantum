@@ -1,0 +1,1 @@
+# No models needed - pure geometry in templates
